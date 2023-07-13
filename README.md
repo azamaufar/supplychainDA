@@ -12,7 +12,7 @@ This repository contains the project work completed as part of the Pacmann AI Bu
 
 - `data/`: Contains the dataset used for analysis (`dataset.csv`).
 - `notebooks/`: Includes Jupyter notebooks with step-by-step analysis and visualization code.
-- `dashboard/`: Contains files for an interactive dashboard to visualize the data.
+- `output/`: Contains graph image to visualize the data.
 - `README.md`: Provides an overview of the project and instructions.
 
 ## Usage
